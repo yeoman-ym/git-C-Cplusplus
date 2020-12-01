@@ -9,3 +9,4 @@ Creating a new branch is quick and smiple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature1
+Creating a new branch is not fast forward.
